@@ -42,7 +42,7 @@ ABCD
     1. jQuery  
     2. Ajax  
         1. build  
-        2.school
+        2. school
 
 ***
 ---  
